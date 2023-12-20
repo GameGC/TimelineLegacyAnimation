@@ -1,0 +1,12 @@
+{
+  "name": "com.gamegc.timeline.legacy-animation",
+  "displayName": "Timeline Legacy Animation",
+  "version": "1.0.0", 
+  "description": "Adds support of legacy Animation Clips to timeline",
+  "author" : {
+    "name": "GameGC"
+  },
+  "dependencies": {
+    "com.unity.timeline": "1.7.5"
+  }
+}
