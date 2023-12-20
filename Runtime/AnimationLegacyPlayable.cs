@@ -2,7 +2,7 @@ using System;
 using UnityEngine;
 using UnityEngine.Playables;
 
-namespace GameGC.Timeline
+namespace GameGC.Timeline.LegacyAnimation.Runtime
 {
     [Serializable]
     public class AnimationLegacyPlayable : PlayableBehaviour

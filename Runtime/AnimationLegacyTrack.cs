@@ -3,7 +3,7 @@ using UnityEngine;
 using UnityEngine.Playables;
 using UnityEngine.Timeline;
 
-namespace GameGC.Timeline
+namespace GameGC.Timeline.LegacyAnimation.Runtime
 {
     [Serializable]
     [TrackClipType(typeof(AnimationLegacyAsset))]
